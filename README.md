@@ -71,7 +71,7 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
 ```
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/uIoZi-?referralCode=RDLb1R)
 
 ## Configs
 
